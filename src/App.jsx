@@ -22,7 +22,7 @@ function App() {
     }
   };
 
-  // console.log(data);
+  console.log("coucou");
 
   useEffect(() => {
     // appel à l'API pour récupérer les données via axios
